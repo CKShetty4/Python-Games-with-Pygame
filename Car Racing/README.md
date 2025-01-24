@@ -11,9 +11,9 @@ This is a simple 2D car racing game built using Python and Pygame. The game feat
 
 ### Gameplay
 
-![Gameplay Screenshot](./screenshots/gameplay.png)
+![Gameplay Screenshot](./screenshot/gameplay.png)
 
-![Working On Path Screenshot](./screenshots/WorkingonPath.png)
+![Working On Path Screenshot](./screenshot/WorkingonPath.png)
 
 ## How to Play:
 1. Run the game.
